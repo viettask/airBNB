@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/contactCard/static/css/main.55cf765d.chunk.css",
-    "main.js": "/contactCard/static/js/main.0f3b2272.chunk.js",
-    "main.js.map": "/contactCard/static/js/main.0f3b2272.chunk.js.map",
-    "runtime-main.js": "/contactCard/static/js/runtime-main.80e6355c.js",
-    "runtime-main.js.map": "/contactCard/static/js/runtime-main.80e6355c.js.map",
-    "static/js/2.321e9647.chunk.js": "/contactCard/static/js/2.321e9647.chunk.js",
-    "static/js/2.321e9647.chunk.js.map": "/contactCard/static/js/2.321e9647.chunk.js.map",
-    "index.html": "/contactCard/index.html",
-    "static/css/main.55cf765d.chunk.css.map": "/contactCard/static/css/main.55cf765d.chunk.css.map",
-    "static/js/2.321e9647.chunk.js.LICENSE.txt": "/contactCard/static/js/2.321e9647.chunk.js.LICENSE.txt"
+    "main.css": "/airBNB/static/css/main.55cf765d.chunk.css",
+    "main.js": "/airBNB/static/js/main.0f3b2272.chunk.js",
+    "main.js.map": "/airBNB/static/js/main.0f3b2272.chunk.js.map",
+    "runtime-main.js": "/airBNB/static/js/runtime-main.195ea6e1.js",
+    "runtime-main.js.map": "/airBNB/static/js/runtime-main.195ea6e1.js.map",
+    "static/js/2.321e9647.chunk.js": "/airBNB/static/js/2.321e9647.chunk.js",
+    "static/js/2.321e9647.chunk.js.map": "/airBNB/static/js/2.321e9647.chunk.js.map",
+    "index.html": "/airBNB/index.html",
+    "static/css/main.55cf765d.chunk.css.map": "/airBNB/static/css/main.55cf765d.chunk.css.map",
+    "static/js/2.321e9647.chunk.js.LICENSE.txt": "/airBNB/static/js/2.321e9647.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.80e6355c.js",
+    "static/js/runtime-main.195ea6e1.js",
     "static/js/2.321e9647.chunk.js",
     "static/css/main.55cf765d.chunk.css",
     "static/js/main.0f3b2272.chunk.js"
